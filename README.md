@@ -77,6 +77,6 @@ This project demonstrates the practical application of Artificial Intelligence i
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 AI Sign Language Translator showcases how Artificial Intelligence and Computer Vision can be leveraged to build impactful accessibility solutions through real-time gesture recognition and deep learning.
