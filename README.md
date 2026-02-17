@@ -9,7 +9,7 @@
 </p>
 
 
-## 🚀 Project Overview
+##  Project Overview
 
 The AI Sign Language Translator is a real-time hand gesture recognition system that uses computer vision and deep learning to convert sign language gestures into readable text. The system captures hand movements through a webcam, processes them using image preprocessing techniques, and predicts the corresponding sign using a trained CNN model.
 
@@ -17,7 +17,7 @@ This project demonstrates the practical application of Artificial Intelligence i
 
 ---
 
-## 🔍 How It Works
+##  How It Works
 
 1. Capture live webcam feed  
 2. Detect and isolate hand region  
@@ -28,7 +28,7 @@ This project demonstrates the practical application of Artificial Intelligence i
 
 ---
 
-## ⭐ Key Features
+##  Key Features
 
 - Real-time sign recognition  
 - CNN-based gesture classification  
@@ -39,7 +39,7 @@ This project demonstrates the practical application of Artificial Intelligence i
 
 ---
 
-## 🧠 AI / ML Techniques Used
+##  AI / ML Techniques Used
 
 - Convolutional Neural Networks (CNN)  
 - Supervised Learning  
@@ -50,7 +50,7 @@ This project demonstrates the practical application of Artificial Intelligence i
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - Python  
 - OpenCV  
@@ -60,7 +60,7 @@ This project demonstrates the practical application of Artificial Intelligence i
 
 ---
 
-## 🌍 Impact
+##  Impact
 
 - Supports communication for hearing and speech impaired individuals  
 - Demonstrates AI-driven accessibility solutions  
@@ -68,7 +68,7 @@ This project demonstrates the practical application of Artificial Intelligence i
 
 ---
 
-## 📈 Future Scope
+##  Future Scope
 
 - Add full sentence detection  
 - Text-to-speech integration  
