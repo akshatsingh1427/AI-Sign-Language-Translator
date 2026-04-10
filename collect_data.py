@@ -34,7 +34,7 @@ while True:
 
     cv2.imshow("Collecting Data", frame)
 
-    if cv2.waitKey(1) & 0xFF == ord('q'):
+    if cv2.waitKey(1) & 0xFF == ord('q'):#imp
         break
 
 cap.release()
