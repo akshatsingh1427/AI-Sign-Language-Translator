@@ -33,4 +33,4 @@ model.compile(
 model.fit(X, y, epochs=20)
 
 model.save("landmark_model.h5")
-np.save("labels.npy", labels)#IMP
+np.save("labels.npy", labels)
